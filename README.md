@@ -35,8 +35,8 @@ This CLI tool requires Node.js (version 14 or higher) to run. If you don't have 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/egeaybars123/encrypt-seed-cli.git
-   cd encrypt-seed-cli
+   git clone https://github.com/egeaybars123/encrypt-seed.git
+   cd encrypt-seed
    ```
 
 2. Install dependencies:
